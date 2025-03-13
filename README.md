@@ -3,7 +3,7 @@ Criei o progama para ajudar quem gosta de upar varios videos ja criados para o y
 
 1 Primeiro baixe o arquivo, extraia a pasta caso esteja em rar,
 
-2 Abra a pasta no console que contenha o python instalado.
+2 Abra a pasta no console (terminal) que contenha o python instalado.
 
 3 Instale as bibliotecas.
 ------------------------------------------------------------------------------------------
