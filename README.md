@@ -47,7 +47,7 @@ Adicionar sua conta como testador
 4 Clique em "Adicionar usuários" e digite o e-mail da conta do Google que você usará para fazer login.
 5 Clique em Salvar e Continuar.
 
-Agora você pode rodar o script para autenticar e começar a fazer uploads no YouTube! 🎥🚀
+Agora você pode rodar o script para autenticar e começar a fazer uploads no YouTube! 🎥🚀 comando (python run.py)
 
 Lembre de editar no codigo as seguintes partes para funcionar
 
