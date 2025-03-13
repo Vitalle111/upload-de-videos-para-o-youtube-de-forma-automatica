@@ -99,4 +99,8 @@ uploado de varios videos ,lembrando que cada file_name precisa conter o nome do 
   
    {"file_name": "video6.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O NOME DO JOGO DO SEU VIDEO"},
 ]
- 
+
+ DONATE 
+ ------------------------------------------
+bc1q9ltwwlwhcvpm0p3ylgjsmxlu0hqy09l2cp38we 
+-------------------------------------------
