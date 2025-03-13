@@ -1,17 +1,17 @@
 # upload-de-videos-para-o-youtube-de-forma-automatica
-Criei o progama para ajudar quem gosta de upar varios videos ja criados para o youtube de forma automatizada ,so precisa configurar uma vez e ele ja faz automatico, sem precisar postar um por um,podendo agendar a data de postagem
+Criei o progama para ajudar quem gosta de upar varios videos ja criados para o youtube de forma automatizada,uma otima ferramenta para shorts ,so precisa configurar uma vez e ele ja faz automatico, sem precisar postar um por um,podendo agendar a data de postagem
 
 1 Primeiro baixe o arquivo, extraia a pasta caso esteja em rar,
 
 2 Abra a pasta no console que contenha o python instalado.
 
 3 Instale as bibliotecas.
+------------------------------------------------------------------------------------------
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-
-4 
-
-
-Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfil google
+------------------------------------------------------------------------------------------
+ pip install pytz
+------------------------------------------------------------------------------------------
+Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfil google.
 
 1º Criar um Projeto no Google Cloud Console
 1 Acesse o Google Cloud Console.
@@ -39,7 +39,6 @@ Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfi
 -Clique em Criar.
 5 Baixe o arquivo JSON das credenciais (client_secrets.json) e coloque-o na pasta do seu script Python, apos baixar precisa renomea-lo para client_secrets.json.
 
-Agora você pode rodar o script para autenticar e começar a fazer uploads no YouTube! 🎥🚀
 
 Adicionar sua conta como testador
 1 Acesse o Google Cloud Console.
@@ -47,4 +46,11 @@ Adicionar sua conta como testador
 3 Role para baixo até a seção "Usuários de teste".
 4 Clique em "Adicionar usuários" e digite o e-mail da conta do Google que você usará para fazer login.
 5 Clique em Salvar e Continuar.
+
+Agora você pode rodar o script para autenticar e começar a fazer uploads no YouTube! 🎥🚀
+Lembre de editar no codigo as seguintes partes para funcionar
+VIDEO_FOLDER = "D:/GRAVAÇOES DO OBS/VIDEOS RENDERIZADOS/SHOTS/SHOTS 1" altere para o local onde esta o seus videos salvos que quer upar e altere o texto D:/GRAVAÇOES DO OBS/VIDEOS RENDERIZADOS/SHOTS/SHOTS 1
+POST_TIMES = [12, 16, 18] para alterar os horarios de postagem 
+videos = [
+    {"file_name": "video4.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O JOGO DO SEU VIDEO"},
 
