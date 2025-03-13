@@ -85,6 +85,7 @@ POST_TIMES = [12, 16, 18] para alterar os horarios de postagem
 Altere o nome do arquivo video4.mp4 para o nome do seu video,se for postar mais de um precisa duplicar esse codigo e alterar as informaçoes conforme exemplo abaixo
 
 upload de 1 video 
+
 videos = [
     {"file_name": "video4.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O NOME DO JOGO DO SEU VIDEO"},
     
