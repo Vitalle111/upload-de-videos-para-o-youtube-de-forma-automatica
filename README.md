@@ -8,8 +8,9 @@ Criei o progama para ajudar quem gosta de upar varios videos ja criados para o y
 3 Instale as bibliotecas.
 ------------------------------------------------------------------------------------------
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client 
+
 pip install pytz
-------------------------------------------------------------------------------------------
+
 
 Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfil google.
 
