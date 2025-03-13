@@ -66,16 +66,16 @@ Altere o nome do arquivo video4.mp4 para o nome do seu video,se for postar mais 
 
 upload de 1 video 
 videos = [
-    {"file_name": "video4.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O JOGO DO SEU VIDEO"},
+    {"file_name": "video4.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O NOME DO JOGO DO SEU VIDEO"},
     
 
 uploado de varios videos ,lembrando que cada file_name precisa conter o nome do arquivo de video que quer enviar, altere video4.mp4 para o nome do arquivo do video que vai upar
 
  videos = [
-     {"file_name": "video4.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O JOGO DO SEU VIDEO"},
+     {"file_name": "video4.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O NOME DO JOGO DO SEU VIDEO"},
 
-  {"file_name": "video5.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O JOGO DO SEU VIDEO"},
+  {"file_name": "video5.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O NOME DO JOGO DO SEU VIDEO"},
   
-   {"file_name": "video6.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O JOGO DO SEU VIDEO"},
+   {"file_name": "video6.mp4", "title": "INSIRA AQUI O TITULO DO SEU VIDEO ", "description": "INSIRA AQUI A DESCRIÇAO DO SEU VIDEO", "tags": ["INSIRA AQUI AS TAGS DO SEU VIDEO"], "category_id": "INSIRA A CATEGORIA DO VIDEO COMO ENVIO JOGOS É O 20", "game_title": "INSIRA AQUI O NOME DO JOGO DO SEU VIDEO"},
 ]
  
