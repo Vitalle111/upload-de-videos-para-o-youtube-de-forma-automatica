@@ -12,7 +12,7 @@ pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-pyt
 pip install pytz
 
 
-Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfil google.
+Para ele ir para o seu youtube siga o passo a passo para configurar no seu perfil google.
 
 1º Criar um Projeto no Google Cloud Console
 ------------------------------------------------------------------------------------
