@@ -103,7 +103,7 @@ uploado de varios videos ,lembrando que cada file_name precisa conter o nome do 
 
  DONATE > In the profile photo or at the address below
  ---------------------------------------------
- DOAÇAO > Na foto do perfil ou no endereço abaixo
+ DOAÇÃO > Na foto do perfil ou no endereço abaixo
  ------------------------------------------
 bc1q9ltwwlwhcvpm0p3ylgjsmxlu0hqy09l2cp38we 
 -------------------------------------------
