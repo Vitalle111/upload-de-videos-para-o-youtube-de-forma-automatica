@@ -48,6 +48,7 @@ Adicionar sua conta como testador
 5 Clique em Salvar e Continuar.
 
 Agora você pode rodar o script para autenticar e começar a fazer uploads no YouTube! 🎥🚀
+
 Lembre de editar no codigo as seguintes partes para funcionar
 VIDEO_FOLDER = "D:/GRAVAÇOES DO OBS/VIDEOS RENDERIZADOS/SHOTS/SHOTS 1" altere para o local onde esta o seus videos salvos que quer upar e altere o texto D:/GRAVAÇOES DO OBS/VIDEOS RENDERIZADOS/SHOTS/SHOTS 1
 POST_TIMES = [12, 16, 18] para alterar os horarios de postagem 
