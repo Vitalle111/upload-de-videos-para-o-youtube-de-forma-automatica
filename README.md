@@ -12,7 +12,7 @@ pip install pytz
 ------------------------------------------------------------------------------------------
 
 Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfil google.
-------------------------------------------------------------------------------------
+
 1º Criar um Projeto no Google Cloud Console
 ------------------------------------------------------------------------------------
 1 Acesse o Google Cloud Console.
@@ -24,7 +24,7 @@ Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfi
 4 Dê um nome ao projeto (exemplo: "YouTube Video Uploader") e clique em Criar.
 
 5 Aguarde a criação do projeto e selecione-o no topo da página.
------------------------------------------------------------------------------------
+
 2º Ativar a YouTube Data API v3
 -----------------------------------------------------------------------------------
 1 No menu ≡, vá para "APIs e serviços" > "Biblioteca".
@@ -32,7 +32,7 @@ Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfi
 2 Na barra de pesquisa, digite "YouTube Data API v3" e clique nela.
 
 3 Clique em "Ativar".
----------------------------------------------------------------------------------
+
 3º Criar Credenciais OAuth 2.0
 ---------------------------------------------------------------------------------
 1 No menu ≡, vá para "APIs e serviços" > "Credenciais".
@@ -60,7 +60,7 @@ Para ele ir para o seu youtube siga o passo a passp para configurar no seu perfi
 
 5 Baixe o arquivo JSON das credenciais (client_secrets.json) e coloque-o na pasta do seu script Python, apos baixar precisa renomea-lo para client_secrets.json.
 
-------------------------------------------------
+
 Adicionar sua conta como testador
 ------------------------------------------------
 1 Acesse o Google Cloud Console.
